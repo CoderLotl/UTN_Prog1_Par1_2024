@@ -1,5 +1,5 @@
-from model.Funciones import Funciones
-from model.Validaciones import Validaciones
+from model.services.Utilitarios import Funciones
+from model.services.Validaciones import Validaciones
 import numpy as np
 
 class App:
